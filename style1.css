@@ -1,0 +1,14 @@
+h3{
+    color:white;
+    margin-top: 96px;
+    margin-bottom: 96px;
+    padding-left: 20px;
+}
+body{
+    background-color:black;
+}
+button {
+     color:blue;
+     margin-left:20px; /*for button we use margin*/
+     border-radius: 20px;
+}
